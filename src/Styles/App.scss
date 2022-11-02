@@ -1,0 +1,12 @@
+.App {
+  // background: red;
+}
+body {
+  background: rgb(34, 46, 53);
+}
+.header-container {
+  display: flex;
+  .header-container-inner {
+    margin: 3rem auto;
+  }
+}
